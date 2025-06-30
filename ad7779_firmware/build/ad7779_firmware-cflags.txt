@@ -1,0 +1,16 @@
+-DNO_OS_VERSION=tags/last_commit-a8e703fb7-modified
+-DNO_OS_PROJECT=ad7779_firmware
+-g3
+-DLINUX_PLATFORM
+-Wall
+-Wextra
+-Wno-unused-parameter
+-MMD
+-MP
+-DDISABLE_SECURE_SOCKET
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/drivers/adc/ad7779/
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/drivers/platform/linux/
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/include
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/drivers/adc/ad7779/
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/drivers/platform/linux/
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/include

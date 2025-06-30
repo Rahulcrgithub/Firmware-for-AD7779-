@@ -1,0 +1,9 @@
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/noos/drivers/adc/ad7779/ad7779.o
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/noos/drivers/api/no_os_gpio.o
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/noos/drivers/api/no_os_spi.o
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/noos/drivers/platform/linux/linux_delay.o
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/noos/drivers/platform/linux/linux_spi.o
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/ad7779_firmware/main.o
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/noos/util/no_os_alloc.o
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/noos/util/no_os_mutex.o
+/home/rahul/no-OS/projects/ad7779_firmware/build/objs/ad7779_firmware/build/app/noos/util/no_os_util.o

@@ -1,0 +1,3 @@
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/drivers/adc/ad7779/
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/drivers/platform/linux/
+-I/home/rahul/no-OS/projects/ad7779_firmware/build/app/noos/include
